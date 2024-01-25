@@ -9,3 +9,4 @@ flask_sqlalchemy
 SQLAlchemy
 gunicorn
 psycopg2-binary
+email-validator
